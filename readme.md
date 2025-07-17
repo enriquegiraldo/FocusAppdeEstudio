@@ -72,14 +72,8 @@ MIT License - ver [LICENSE.md](LICENSE.md) para más detalles.
 
 ---
 
-Hecho con ❤️ por \[Tu Nombre] - [¡Visita el sitio en vivo!](https://tu-usuario.github.io/fokus-app)
+Hecho con ❤️ por Enrique Giraldo Puentes - [¡Visita el sitio en vivo!](https://github.com/enriquegiraldo)
 
 ---
 
-> 💡 **Nota**:
->
-> 1. Reemplaza `tu-usuario` con tu nombre de usuario de GitHub
-> 2. Agrega tus propias imágenes de preview en la carpeta `imagenes/`
-> 3. Personaliza la sección de licencia según tus necesidades
-> 4. Agrega enlaces a tu demo en vivo si está deployada
 

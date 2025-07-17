@@ -25,10 +25,10 @@ Aplicación web para mejorar la concentración mediante temporizador Pomodoro ad
 ## 📦 Instalación
 
 1. Clona el repositorio:
-   
-   git clone https://github.com/tu-usuario/fokus-app.git
 
-2. Abre en tu navegador:
+   git@github.com:enriquegiraldo/FocusAppdeEstudio.git
+
+3. Abre en tu navegador:
 
    
    cd fokus-app && open index.html

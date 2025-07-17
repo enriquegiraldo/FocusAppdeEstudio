@@ -26,7 +26,7 @@ Aplicación web para mejorar la concentración mediante temporizador Pomodoro ad
 
 1. Clona el repositorio:
 
-   git@github.com:enriquegiraldo/FocusAppdeEstudio.git
+   https://github.com/enriquegiraldo/FocusAppdeEstudio.git
 
 3. Abre en tu navegador:
 
